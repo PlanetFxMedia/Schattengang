@@ -1,0 +1,21 @@
+#Schattengang von Planet-Fx
+#by Sebastian Mikolai
+
+#Permission to use the Command: 'schattengang.use'
+
+#Dauer in Sekunden
+duration: 20
+
+#Level
+amplifier: 1
+
+#Messages
+useprefix: true
+prefix: '&7[&4Schattengang&7] '
+console: '&4Du musst ein Spieler sein!'
+nopermission: '&4Du hast keine Berechtigung!'
+schattengangBegin: '&6Du bist jetzt unsichtbar!'
+schattengangEnd: '&6Du bist wieder sichtbar!'
+hasSchattengang: '&4Du hast den Befehl gerade erst benutzt!'
+useSchattengang: '&4Du musst eine Zahl angeben!'
+maxDuration: '&4Die Zahl muss kleiner als %duration% sein!'
