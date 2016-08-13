@@ -1,0 +1,10 @@
+name: PlanetFxSchattengang
+version: 1.0.9
+author: Sebastian Mikolai
+
+main: de.SebastianMikolai.PlanetFx.Schattengang.Schattengang
+
+commands:
+  schattengang:
+    description: Schattengang Command
+    usage: /schattengang
